@@ -1,15 +1,15 @@
 using UnityEngine;
 using System.Collections;
 
-public class DatScript : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
+public class DatScript : MonoBehaviour 
+{
+	
+	void Update()
+	{
+		
+		
+		
 	
 	}
 	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }
