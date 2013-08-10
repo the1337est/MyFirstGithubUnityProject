@@ -12,4 +12,11 @@ public class DatScript : MonoBehaviour
 	
 	}
 	
+	void GrabPills(Francis francis)
+	{
+		
+		francis.GrabPills(10);	
+	
+	}
+	
 }
