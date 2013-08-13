@@ -19,4 +19,6 @@ public class DatScript : MonoBehaviour
 	
 	}
 	
+	void TestFunction(){}
+	
 }
