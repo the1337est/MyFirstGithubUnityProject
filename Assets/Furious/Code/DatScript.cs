@@ -21,4 +21,9 @@ public class DatScript : MonoBehaviour
 	
 	void TestFunction(){}
 	
+	void TestFunction()
+	{
+		//so coooooool 
+	}
+	
 }
