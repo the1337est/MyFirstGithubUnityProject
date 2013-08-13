@@ -21,4 +21,12 @@ public class DatScript : MonoBehaviour
 	
 	void TestFunction(){}
 	
+	void OtherFunction()
+	{
+		
+		
+		//My comment says andy
+		
+	}
+	
 }
